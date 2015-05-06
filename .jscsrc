@@ -1,0 +1,10 @@
+{
+    "preset": "jquery",
+    "validateQuoteMarks": true,
+    "requireSpacesInsideParentheses": null,
+    "requireSpacesInFunctionExpression": null,
+    "requireSpacesInsideArrayBrackets": null,
+    "requireSpacesInAnonymousFunctionExpression": null,
+    "requireCurlyBraces": null,
+    "verbose": true
+}
