@@ -1,10 +1,5 @@
 {
-    "preset": "jquery",
-    "validateQuoteMarks": true,
-    "requireSpacesInsideParentheses": null,
-    "requireSpacesInFunctionExpression": null,
-    "requireSpacesInsideArrayBrackets": null,
-    "requireSpacesInAnonymousFunctionExpression": null,
-    "requireCurlyBraces": null,
+    "preset": "google",
+    "disallowKeywordsOnNewLine": null,
     "verbose": true
 }
